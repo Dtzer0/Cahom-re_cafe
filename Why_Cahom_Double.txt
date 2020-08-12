@@ -1,0 +1,8 @@
+Cahom 파일이 두개인 이유
+-> Cahom-practice에 재commit/push를 해야되는데 파일 하나가 장소가 달랐음.
+-> 옮겨도 진전이 없어서 새 파일인 Cahom-re_cafe를 생성(Re-test)
+-> 새 파일 commit/push가 끝나고 처음꺼 하니까 되긴 되더라,,
+
+미래의 나를 위한 TMI
+
+
